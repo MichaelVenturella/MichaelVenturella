@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Hi, I'm Michael!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Horrible Code:</h2>
 -Coming Soon!
 
 <h2>📺 Popular YouTube Videos</h2>
