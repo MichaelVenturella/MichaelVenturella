@@ -7,7 +7,8 @@
 <a href=https://github.com/MichaelVenturella/Public-IP-Checker> Public-IP-Checker</a>
 
 <h2>📺Projects</h2>
--<a href=https://github.com/MichaelVenturella/KQLThreatHunting> KQL Threat Hunting!</a>
+-<a href=https://github.com/MichaelVenturella/KQLThreatHunting> KQL Threat Hunting!</a> 
+/n
 -<a href=https://github.com/MichaelVenturella/KQLThreatHunting> Dangling DNS Vulnerable Subdomains Hunter</a>
 <h2> 📄Certifications:</h2>
 -Coming Soon!
