@@ -8,7 +8,7 @@
 
 <h2>📺Projects</h2>
 -<a href=https://github.com/MichaelVenturella/KQLThreatHunting> KQL Threat Hunting!</a> 
-/n
+<br>
 -<a href=https://github.com/MichaelVenturella/KQLThreatHunting> Dangling DNS Vulnerable Subdomains Hunter</a>
 <h2> 📄Certifications:</h2>
 -Coming Soon!
