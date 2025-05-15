@@ -17,7 +17,7 @@
 <br>
 -<a href=https://github.com/MichaelVenturella/VirusTotal-Checker> VirusTotal-Checker</a>
 <br>
--<a href=https://github.com/MichaelVenturella/PowershellDFIR> PowershellDFIRr</a>
+-<a href=https://github.com/MichaelVenturella/PowershellDFIR> PowershellDFIR</a>
 
 
 <h2> 🤳 Connect with me:</h2>
